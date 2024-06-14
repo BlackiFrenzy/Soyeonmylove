@@ -119,6 +119,7 @@ p {
   color: #4b3e3e;
 }
 .titulo{
-    font-family: "Open Sans", cursive;
-    font-size: 2.5rem;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
