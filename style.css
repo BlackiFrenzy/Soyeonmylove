@@ -120,5 +120,6 @@ p {
 }
 .titulo{
     font-family: "Pacifico", cursive;
+    font-weight: 1000;
     font-style: normal;
 }
