@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&display=swap');
 
 * {
   margin: 0;
@@ -117,4 +118,8 @@ p {
 
 .description {
   color: #4b3e3e;
+}
+.titulo{
+    font-family: "Open Sans";
+    font-size: 2.5rem;
 }
