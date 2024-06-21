@@ -74,14 +74,6 @@ p {
 }
 
 
-.titulo{
-    font-family: "Pacifico", cursive;
-    font-weight: 1000;
-}
-.textoapoio{
-  background-color: #F5DEB3	;
-}
-
 :root{
   --verde-escuro: #66796B;
   --azul: #61788C;
