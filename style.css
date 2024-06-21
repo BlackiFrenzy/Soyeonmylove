@@ -70,6 +70,7 @@ p {
   gap: 3rem 2rem;
   justify-content: center;
   align-items: center;
+  background-color: var(--verde-escuro);
 }
 
 
