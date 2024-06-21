@@ -70,6 +70,7 @@ p {
   gap: 3rem 2rem;
   justify-content: center;
   align-items: center;
+  background-color: #F5DEB3	;
 }
 
 .menu__item {
@@ -124,5 +125,6 @@ p {
 }
 .textoapoio{
   background-color: #F5DEB3	;
-  margin: 100%;
+padding: 20px;
+  align-items: flex-start;
 }
