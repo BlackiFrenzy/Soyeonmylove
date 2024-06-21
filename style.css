@@ -35,7 +35,7 @@ p {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  background-color: #f5f3f3;
+  background-color: #61788c;
 }
 
 .btn__container {
@@ -55,6 +55,7 @@ p {
   transition: all 0.5s ease-in;
   margin: 5px;
   border-radius: 4px;
+  color: white;
 }
 
 .filter__btn:hover {
