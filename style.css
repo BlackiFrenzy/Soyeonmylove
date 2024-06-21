@@ -127,6 +127,77 @@ p {
   background-color: #F5DEB3	;
 }
 
+main .container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.main-text{
+  width: 50%;
+  color: white;
+}
+
+.main-text h1{
+  font-size: 4.5rem;
+}
+
+.main-text div{
+  display: flex;
+  align-items: center;
+}
+
+.main-img{
+  width: 40%;
+}
+
+.main-img img{
+  width: 100%;
+  border-radius: 30px;
+  padding: 10px 0;
+}
+
+.menu-icon{
+  display: none;
+  position: relative;
+  z-index: 10;
+}
+
+.dados{
+  background: var(--marrom);
+}
+
+.dados .container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dados .dados-text{
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 600;
+  width: 50%;
+}
+
+.dados .dados-numero{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.dados .dados-numero p{
+  text-align: center;
+  margin: 0 30px;
+  font-size: 15px;
+}
+
+.dados .dados-numero p span{
+  font-size: 20px;
+  font-weight: 600;
+}
 section#beneficios .container{
   display: flex;   
   justify-content: space-between;
